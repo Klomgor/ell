@@ -14,7 +14,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.6.0",
+    "axios": "^1.7.4",
     "base64-js": "^1.5.1",
     "chart.js": "^4.4.4",
     "chartjs-chart-error-bars": "^4.4.2",
@@ -76,7 +76,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.40",
     "tailwindcss": "^3.3.5"
   }
 }
